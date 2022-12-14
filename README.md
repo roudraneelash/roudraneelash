@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @roudraneelash
 - 👀 I’m interested in ...
-  ~ Coding
-  ~ Building UI components
+  ~ Java
+  ~ Javascript
+  ~ UI design/developemnt
+  ~ React 
+  ~ Node
+  ~ Full-Stack Development
 
 - 🌱 I’m currently learning ...
    ~ Node Js
